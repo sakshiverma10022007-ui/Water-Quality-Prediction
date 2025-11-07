@@ -29,4 +29,23 @@ The data was cleaned, processed, and used for model training and evaluation.
 
 ---
 
-## ⚙️ Project Structure
+This repository contains the complete code, dataset, trained models, and deployment-ready app.py file for our Predictive Precision Hackathon project.
+The solution covers the full pipeline — from data analysis and preprocessing to model training, evaluation, and a Flask-based deployment script for predictions.
+All project components are structured for clarity and easy reproducibility.
+
+📂 Contents:
+
+data/ – dataset files used for model training
+
+models/ – saved trained models
+
+notebooks/ – Jupyter notebooks for EDA and model development
+
+app.py – deployment-ready Flask application
+
+requirements.txt – required dependencies
+
+index.html – exported HTML with output and insights
+
+presentation.pptx – final presentation
+
